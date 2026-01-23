@@ -14,7 +14,7 @@ variable "start_time" {
     type=string
     description = "start time of vm" 
 }
-variable "stop_time" {
-    type=string
-    description = "stop time of vm "  
-}
+# variable "stop_time" {
+#     type=string
+#     description = "stop time of vm "  
+# }
